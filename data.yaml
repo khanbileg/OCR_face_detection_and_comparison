@@ -1,5 +1,0 @@
-path: /Users/macbookpro/Downloads/golomt bank intern/algorithms and codes/dataset
-train: images/train
-val: images/val
-nc: 10
-names: ['passport', 'photo', 'name', 'surname', 'date_of_birth', 'sex', 'mrz', 'number', 'other', 'nationality']
